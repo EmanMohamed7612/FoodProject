@@ -20,7 +20,7 @@ This is a complete mobile application developed using **Flutter**, featuring a b
 ![Login](https://github.com/EmanMohamed7612/FoodProject/blob/main/lib/ScreenTask4/loginfood.png)
 
 ### 🔹 Sign Up Page
-![Sign Up](screenshots/signup.png)
+![Sign Up](https://github.com/EmanMohamed7612/FoodProject/blob/main/lib/ScreenTask4/signupfood.png)
 
 ### 🔹 OTP Verification
 ![OTP](https://github.com/EmanMohamed7612/FoodProject/blob/main/lib/ScreenTask4/otpfood.png)
