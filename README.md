@@ -11,7 +11,7 @@ This is a complete mobile application developed using **Flutter**, featuring a b
 ## 📸 Screenshots
 
 ### 🔹 Splash Screen
-![Splash](screenshots/splash.png)
+![Splash](https://github.com/EmanMohamed7612/FoodProject/blob/main/lib/ScreenTask4/splashfood.png)
 
 ### 🔹 Welcome Page
 ![Welcome](screenshots/welcome.png)
